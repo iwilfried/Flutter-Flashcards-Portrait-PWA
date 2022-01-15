@@ -1,5 +1,5 @@
 
-[![Dart](https://github.com/iwilfried/flutter-fashcards-portrait-pwa/actions/workflows/dart.yml/badge.svg)](https://github.com/iwilfried/flutter-flashcards-portrait-pwa/actions/workflows/dart.yml)
+
 
 Click on:
 [Flashcards-PWA Website](https://iwilfried.github.io/Flutter-Flashcards-Portrait-PWA/)
