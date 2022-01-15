@@ -1,7 +1,7 @@
 
 # PWA
 
-Link : [website](flashcard-portrait.surge.sh)
+Link : [Website-Preview](flashcard-portrait.surge.sh)
 
 # PWA Create Tutorial
 
@@ -9,17 +9,18 @@ Link : [website](flashcard-portrait.surge.sh)
 
 2. When you open project in your IDE you have so many errors and you should run "dart pub get" in your IDE terminal.
 
-
+´´´ flutter
 ![run pub get](https://user-images.githubusercontent.com/95560640/149625807-4666a89a-1725-49de-bc93-7009ea5b6bec.png)
 
+´´´  
 
-3. After that when you dont have any error run "flutter config --enable-web" and after that restart IDE.
+3. After that when you don't have any error run "flutter config --enable-web" and after that restart IDE.
 
 
 ![enable web](https://user-images.githubusercontent.com/95560640/149625936-2e3f9347-37af-4109-a205-e0a6e36487dd.png)
 
 
-4. Run app on chrome with "flutter run -d chrome" to make sure app dont have any error.
+4. Run app on chrome with "flutter run -d chrome" to make sure app don't have any error.
 
 
 ![run on chrome](https://user-images.githubusercontent.com/95560640/149626048-6d2c6abb-ff2e-4e62-a7a9-aaea435c80f7.png)
@@ -76,7 +77,7 @@ Link : [website](flashcard-portrait.surge.sh)
 ![add domain](https://user-images.githubusercontent.com/95560640/149626554-b4c1cc66-8f2a-45bd-bfc2-d4fce2a89959.png)
 
 
-14. The PWA created and show you link. Type that link into your bowser, then you have app on your browser.
+14. The PWA created and show you link. Type that link into your browser, then you have app on your browser.
 
 
 ![done](https://user-images.githubusercontent.com/95560640/149626556-a33b5d18-6a46-4997-8808-1641405c1613.png)
