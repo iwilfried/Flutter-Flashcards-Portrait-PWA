@@ -10,11 +10,10 @@ Click on:
 
 
 
-# PWA
+# PWA Tutorial
 
 Link : [Website-Preview](flashcard-portrait.surge.sh)
 
-# PWA Create Tutorial
 
 1. First clone project and open in your IDE.
 
