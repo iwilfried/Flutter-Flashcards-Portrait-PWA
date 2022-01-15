@@ -9,7 +9,6 @@ Click on:
 
 
 
-
 # PWA Tutorial
 
 Link : [Website-Preview](flashcard-portrait.surge.sh)
@@ -19,7 +18,7 @@ Link : [Website-Preview](flashcard-portrait.surge.sh)
 
 2. When you open project in your IDE you have so many errors and you should run "dart pub get" in your IDE terminal.
 
-´´´flutter
+´´´
 run pub get
 ´´´  
 
