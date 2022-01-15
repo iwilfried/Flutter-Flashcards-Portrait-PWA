@@ -2,7 +2,7 @@
 [![Dart](https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/actions/workflows/dart.yml/badge.svg)](https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/actions/workflows/dart.yml)
 
 Click on:
-[Flashcards-PWA Website](https://iwilfried.github.io/#/)
+[Flashcards-PWA Website](https://iwilfried.github.io/flutter-flashcards-portrait-PWA/#/)
 
 [![Codemagic build status](https://api.codemagic.io/apps/61408ce7db3816c8e2627b45/61408ce7db3816c8e2627b44/status_badge.svg)](https://codemagic.io/apps/61408ce7db3816c8e2627b45/61408ce7db3816c8e2627b44/latest_build)
 
