@@ -9,10 +9,11 @@ Link : [Website-Preview](flashcard-portrait.surge.sh)
 
 2. When you open project in your IDE you have so many errors and you should run "dart pub get" in your IDE terminal.
 
-´´´ flutter
-![run pub get](https://user-images.githubusercontent.com/95560640/149625807-4666a89a-1725-49de-bc93-7009ea5b6bec.png)
-
+´´´flutter
+run pub get
 ´´´  
+
+![run pub get](https://user-images.githubusercontent.com/95560640/149625807-4666a89a-1725-49de-bc93-7009ea5b6bec.png) 
 
 3. After that when you don't have any error run "flutter config --enable-web" and after that restart IDE.
 
