@@ -1,8 +1,8 @@
 
 
 
-Click on:
-[Flashcards-PWA Website](https://iwilfried.github.io/Flutter-Flashcards-Portrait-PWA/)
+Click on: (Hosting Firebase)
+[Flashcards-PWA Website](https://flutter-flashcard-portrait-pwa.web.app/#/)
 
 
 [![Codemagic build status](https://api.codemagic.io/apps/61408ce7db3816c8e2627b45/61408ce7db3816c8e2627b44/status_badge.svg)](https://codemagic.io/apps/61408ce7db3816c8e2627b45/61408ce7db3816c8e2627b44/latest_build)
@@ -18,9 +18,10 @@ Link : [Website-Preview](flashcard-portrait.surge.sh)
 
 2. When you open project in your IDE you have so many errors and you should run "dart pub get" in your IDE terminal.
 
-´´´
-run pub get
-´´´  
+```
+$ dart pub get
+
+```  
 
 ![run pub get](https://user-images.githubusercontent.com/95560640/149625807-4666a89a-1725-49de-bc93-7009ea5b6bec.png) 
 
