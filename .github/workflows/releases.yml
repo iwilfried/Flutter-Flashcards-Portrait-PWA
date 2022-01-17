@@ -30,9 +30,10 @@ jobs:
       - uses: actions/setup-java@v1
         with:
           java-version: $
-      - uses: subosito/flutter-action@v1
+      - uses: subosito/flutter-action@v2
         with:
-          flutter-version: $
+          flutter-version: '2.8.1'
       - run: flutter pub get
       - run: flutter analyze
       - run: flutter test
+      - run: flutter build web
