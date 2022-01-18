@@ -10,7 +10,7 @@
 
 Link : https://flutter-flashcard-portrait-pwa.web.app/#/  
 
-![](/image/frame.svg)
+![](image/frame.svg)
 
 
 
