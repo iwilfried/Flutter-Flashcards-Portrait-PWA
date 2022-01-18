@@ -11,7 +11,8 @@
 Link : https://flutter-flashcard-portrait-pwa.web.app/#/  
 
 <img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/tree/main/assets/images/qr-code.png" width="150" height="150">
-![test image size]<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/tree/main/assets/images/qr-code.png" width="400" height="790">
+
+![image](https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/tree/main/assets/images/qr-code.png "Title" {width=40px height=400px})
 
   ![](./assets/images/qr-code.png) | 20%
   
