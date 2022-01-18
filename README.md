@@ -10,7 +10,7 @@
 
 Link : https://flutter-flashcard-portrait-pwa.web.app/#/  
 
-<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/tree/main/images/frame.svg" width="150" height="150">
+<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/tree/main/assets/images/qr-code.png" width="150" height="150">
 
 
 
