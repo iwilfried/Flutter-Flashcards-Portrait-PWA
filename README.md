@@ -12,7 +12,8 @@ Click on: (Hosting Firebase)
 # PWA Tutorial
 
 Link : https://flutter-flashcard-portrait-pwa.web.app/#/
-![qrcode_9215590_](https://user-images.githubusercontent.com/1112242/149942456-6d6aecbb-ba68-4242-bb9c-dfe8138d0fa0.png)
+![image](https://user-images.githubusercontent.com/1112242/149943100-dc47b58e-d669-4f91-a260-1068d1893dd6.png)
+
 
 
 
