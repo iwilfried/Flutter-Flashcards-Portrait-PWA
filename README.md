@@ -12,7 +12,7 @@ Link : https://flutter-flashcard-portrait-pwa.web.app/#/
 
 <img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/tree/main/assets/images/qr-code.png" width="150" height="150">
 
-<div style="width: 60%; height: 60%">
+<div style="width: 20%; height: 20%">
   
   ![](./assets/images/qr-code.png)
   
