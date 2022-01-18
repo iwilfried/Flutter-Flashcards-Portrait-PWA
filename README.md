@@ -14,7 +14,7 @@ Link : https://flutter-flashcard-portrait-pwa.web.app/#/
 
 <div style="width: 60%; height: 60%">
   
-  ![](.assets/images/qr-code.png)
+  ![](./assets/images/qr-code.png)
   
 </div>
 
