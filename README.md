@@ -9,9 +9,9 @@
 # PWA Tutorial
 
 Link : https://flutter-flashcard-portrait-pwa.web.app/#/  
-![test image size]<img src="https://fullpath/images/yourgif.gif" width="400" height="790">
 
-![](./images/frame.svg =80x80)
+![]<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/tree/main/images/frame.gif" width="150" height="150">
+
 
 
 
