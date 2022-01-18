@@ -1,10 +1,6 @@
 
 
 
-Click on: (Hosting Firebase)
-![frame](https://user-images.githubusercontent.com/1112242/149944115-99fe5e58-e7a4-4332-817a-03a83d5f8d6a.png)
-
-
 
 [![Codemagic build status](https://api.codemagic.io/apps/61408ce7db3816c8e2627b45/61408ce7db3816c8e2627b44/status_badge.svg)](https://codemagic.io/apps/61408ce7db3816c8e2627b45/61408ce7db3816c8e2627b44/latest_build)
 
@@ -13,7 +9,7 @@ Click on: (Hosting Firebase)
 # PWA Tutorial
 
 Link : https://flutter-flashcard-portrait-pwa.web.app/#/
-![image](https://user-images.githubusercontent.com/1112242/149943100-dc47b58e-d669-4f91-a260-1068d1893dd6.png)
+
 
 
 
