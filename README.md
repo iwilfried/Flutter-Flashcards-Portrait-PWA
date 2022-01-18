@@ -10,6 +10,8 @@
 
 Link : https://flutter-flashcard-portrait-pwa.web.app/#/  
 
+<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/qr-code.png" width="48">
+
 
   ![](./assets/images/qr-code.png)
   <img src="..." width="48">
