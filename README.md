@@ -11,7 +11,7 @@ Click on: (Hosting Firebase)
 
 # PWA Tutorial
 
-Link : [Website-Preview](flashcard-portrait.surge.sh)
+Link : https://flashcard-c95de.web.app/#/
 
 
 1. First clone project and open in your IDE.
