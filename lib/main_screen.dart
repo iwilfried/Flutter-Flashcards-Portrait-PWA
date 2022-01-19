@@ -208,7 +208,7 @@ class _MainScreenState extends ConsumerState<MainScreen> {
                         itemBuilder: (BuildContext context) {
                           return {
                             Theme.of(context).brightness == Brightness.light
-                                ? 'dark mode'
+                                ? 'enable dark mode'
                                 : 'disable dark mode'
                           }.map((String choice) {
                             return PopupMenuItem<String>(
