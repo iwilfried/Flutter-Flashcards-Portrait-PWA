@@ -8,7 +8,7 @@
 
 # PWA Tutorial
 
-Link : https://flutter-flashcard-portrait-pwa.web.app/#/  
+Link :[Website-Preview](https://flutter-flashcard-portrait-pwa.firebaseapp.com/#/)  
 
 <img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/qr-code.png" width="150">
 
