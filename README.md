@@ -32,9 +32,10 @@ Your PWA created.
 
 
 # PWA With Firebase
+<div align="center">
 
 <img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/firebaseProject.gif" width="600" height="40" />
-
+<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/firebaseProjekt.gif">
 
 
 
