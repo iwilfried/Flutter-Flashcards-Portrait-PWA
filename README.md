@@ -33,6 +33,14 @@ Your PWA created.
 
 # PWA With Firebase
 
+<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/firebaseProject.gif" width="40" height="40" />
+
+
+
+
+
+
+
 1.first you have to installed node.js and after that open your cmd and run npm install -g firebase-tools"" to install firebase tools
 
 
