@@ -14,13 +14,6 @@ Link:
 
 <img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/Flash.png" width="150">  
 
-<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/qr-code.png" width="150">
-
-
-  
-
-
-
 
 1. First clone project and open in your IDE.
 
@@ -30,9 +23,6 @@ Link:
 $ dart pub get
 
 ```  
-
-
-Your PWA created.
 
 
 # PWA With Firebase
