@@ -11,18 +11,68 @@
 Link:  
 [Website-Preview](https://flutter-flashcard-portrait-pwa.firebaseapp.com/#/)  
 
-
 <img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/Flash.png" width="150">  
 
-
-1. First clone project and open in your IDE.
-
-2. When you open project in your IDE you have so many errors and you should run "dart pub get" in your IDE terminal.
-
-```
+# PWA Tutorial
+- Clone your project and open this project in your IDE.
+- Open your IDE terminal and type
+```sh
 $ dart pub get
-
 ```  
+```
+$ flutter config --enable-web
+```
+- You may need to restart your IDE to read new settings.
+- Run your app on chrome first (optional) to make sure your app runs as expected.
+```
+$ flutter run -d chrome
+```
+Now get build for web with 
+```
+$ flutter build web
+```
+&nbsp;
+
+## PWA With Firebase
+- Erstellen Sie zuerst ein Firebase-Konto und ein neues Project: &nbsp;&nbsp; <https://firebase.google.com>  
+
+<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/firebaseProject.gif" width="600" height="40" />
+
+Open your IDE Terminal and login with
+```
+$ firebase login
+```
+```
+$ firebase init
+```
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+? Are you ready to proceed? Yes
+? Which Firebase features do you want to set up for this directory? Press Space to select features, then Enter to confirm your choices. (Press <space> to select, <a> to toggle all, <i> to invert selection, and <enter> to proceed)
+ ( ) Firestore: Configure security rules and indexes files for Firestore
+ ( ) Functions: Configure a Cloud Functions directory and its files
+ ( ) Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys
+>(*) Hosting: Set up GitHub Action deploys
+ ( ) Storage: Configure a security rules file for Cloud Storage
+ ( ) Emulators: Set up local emulators for Firebase products
+ ( ) Remote Config: Configure a template file for Remote Config
+(Move up and down to reveal more choices)
+
+
+
+Woohoo!
+Firebase CLI GitHub Login Successful
+
+You are logged into GitHub via the Firebase CLI. You can immediately close this window and continue using the Firebase CLI.
+
+
+
+
+
+
+
 
 
 # PWA With Firebase
