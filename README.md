@@ -36,7 +36,7 @@ $ flutter build web
 ## PWA With Firebase
 - Erstellen Sie zuerst ein Firebase-Konto und ein neues Project: &nbsp;&nbsp; <https://firebase.google.com>  
 
-<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/firebaseProject.gif" width="600" height="40" />
+<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/firebaseProjekt.gif" width="450" height="250" />
 
 Open your IDE Terminal and login with
 ```
@@ -67,18 +67,6 @@ Firebase CLI GitHub Login Successful
 
 You are logged into GitHub via the Firebase CLI. You can immediately close this window and continue using the Firebase CLI.
 
-
-
-
-
-
-
-
-
-# PWA With Firebase
-<div align="center">
-<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/firebaseProjekt.gif" width="450" height="250" />
-</div>
 
 
 
