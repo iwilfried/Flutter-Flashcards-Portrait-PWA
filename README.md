@@ -8,7 +8,11 @@
 
 # PWA Tutorial
 
-Link :[Website-Preview](https://flutter-flashcard-portrait-pwa.firebaseapp.com/#/)  
+Link:  
+[Website-Preview](https://flutter-flashcard-portrait-pwa.firebaseapp.com/#/)  
+
+![](https://qr.page/g/2iL4anjbVB4)
+
 
 <img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/qr-code.png" width="150">
 
@@ -33,10 +37,8 @@ Your PWA created.
 
 # PWA With Firebase
 <div align="center">
-
-<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/firebaseProject.gif" width="600" height="40" />
-<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/firebaseProjekt.gif">
-
+<img src="https://github.com/iwilfried/Flutter-Flashcards-Portrait-PWA/blob/main/assets/images/firebaseProjekt.gif" width="450" height="250" />
+</div>
 
 
 
