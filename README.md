@@ -106,27 +106,34 @@ Here you have to have project on your firebase console. if you don't have projec
 if you have project, your project id shows in terminal and choose project and press enter.
 
 
-7.after you choosed your project, you get this message. type "build/web" and press enter
+7.after you choosed your project, you get this message.  
 
+What do you want to use as your public directory?  
+type ```build/web" and press enter```  
 
-![8](https://user-images.githubusercontent.com/95560640/150304853-59cc1af1-42ed-4450-9c32-0eacf9950a7d.png)
+Configure a single-page app (rewrite all urls to /index.html)? (y/N)  
 
+type  
 
-8.if you get this message type "y" and press enter
+```
+y
+```  
 
+Set up automatic builds and deploys with GitHub? (y/N)  
 
-![9](https://user-images.githubusercontent.com/95560640/150304984-6467323e-8178-4fcb-8ec8-c894cca07912.png)
+```
+n  
+```  
+we create it manually laterm  
 
-
-9.here show you message for craete automatic firebase. type "n" and press enter. (we create it manuely later)
-
-
-![10](https://user-images.githubusercontent.com/95560640/150305248-d496cec8-0952-4588-9715-7c171218ff00.png)
 
 if you any more messages type "n" and press enter
 
 
-10.after process done. run "firebase deploy --only hosting"\
+10.after process done. Type  
+
+```firebase deploy --only hosting\  
+```
 
 
 ![11](https://user-images.githubusercontent.com/95560640/150305612-ef3c08a2-049b-46f7-9fbb-7b5bbb73a6cf.png)
