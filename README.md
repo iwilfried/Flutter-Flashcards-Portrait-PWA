@@ -49,62 +49,61 @@ Before we get started, keep in mind:
 
   * You are initializing within an existing Firebase project directory
 
-? Are you ready to proceed? Yes
-? Which Firebase features do you want to set up for this directory? Press Space to select features, then Enter to confirm your choices. (Press <space> to select, <a> to toggle all, <i> to invert selection, and <enter> to proceed)
- ( ) Firestore: Configure security rules and indexes files for Firestore
- ( ) Functions: Configure a Cloud Functions directory and its files
- ( ) Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys
->(*) Hosting: Set up GitHub Action deploys
- ( ) Storage: Configure a security rules file for Cloud Storage
- ( ) Emulators: Set up local emulators for Firebase products
- ( ) Remote Config: Configure a template file for Remote Config
+? Are you ready to proceed? Yes  
+
+? Which Firebase features do you want to set up for this directory? Press Space to select features, then Enter to confirm your choices. Press space to select, a to toggle all, i to invert selection, and enter to proceed)  
+
+ ( ) Firestore: Configure security rules and indexes files for Firestore  
+
+ ( ) Functions: Configure a Cloud Functions directory and its files  
+
+>(*) Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys    
+
+( ) Hosting: Set up GitHub Action deploys  
+
+ ( ) Storage: Configure a security rules file for Cloud Storage  
+
+ ( ) Emulators: Set up local emulators for Firebase products  
+
+ ( ) Remote Config: Configure a template file for Remote Config  
+
 (Move up and down to reveal more choices)
-
-
 
 Woohoo!
 Firebase CLI GitHub Login Successful
 
 You are logged into GitHub via the Firebase CLI. You can immediately close this window and continue using the Firebase CLI.
 
+Node.js installation is required for the next step.
+
+You open your terminal and type  
+```
+npm install -g firebase-tools  
+````
+
+Next you have to login into your Firebase Account
+```
+firebase login
+```
+
+
+After that, a site in your browser will open and you have to sign in into your google account and allow permission for firebase
+
+
+Then go to you project terminal and type  
+```
+firebase init  
+```  
+ and if you get message run press "y" and press enter.
+
+
+After you have some options, go on hosting and press space and after that press enter
 
 
 
+Here you have to have project on your firebase console. if you don't have project go to the https://console.firebase.google.com and login with your google account and create project.  
 
-
-1.first you have to installed node.js and after that open your cmd and run npm install -g firebase-tools"" to install firebase tools
-
-
-![1](https://user-images.githubusercontent.com/95560640/150303073-ad679579-27a8-49bc-99aa-39c458da26e0.png)
-
-
-2.after that you have to login to your google account for firebase, so run "firebase login"
-
-
-|![2](https://user-images.githubusercontent.com/95560640/150303225-f56fc773-e0c8-4470-926c-a384b76a550a.png)
-
-
-3.if you get this message type "y" and press enter
-
-
-![3](https://user-images.githubusercontent.com/95560640/150303433-8211e614-328d-4e94-b4c7-1ce70d881472.png)
-
-after that, a site in your browser will open and you have to sign in into your google account and allow permission for firebase
-
-
-4.then go to you project terminal and type "firebase init" and if you get message run press "y" and press enter.
-
-
-![5](https://user-images.githubusercontent.com/95560640/150303903-26fe259b-978a-4c68-866d-87139c860aee.png)
-
-
-5.after you have some options, go on hosting and press space and after that press enter
-
-
-![6](https://user-images.githubusercontent.com/95560640/150304088-ad91747e-db79-412d-827e-ea02e0d9a3dd.png)
-
-
-6.here you have to have project on your firebase console. if you dont have project go to the https://console.firebase.google.com and login with your google account and create project. if you have project, your project id shows in terminal and choose project and press enter.
+if you have project, your project id shows in terminal and choose project and press enter.
 
 
 7.after you choosed your project, you get this message. type "build/web" and press enter
